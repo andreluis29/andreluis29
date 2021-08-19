@@ -1,3 +1,6 @@
+Sejam bem vindos(as)!<br>
+Este é meu github!
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreluis29&show_icons=true&theme=dracula)
 <br>
 
