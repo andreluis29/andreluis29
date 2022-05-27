@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm André.</h1>
-<h3 align="center">A Mobile Developer</h3>
 
-- 🌱 I’m currently learning **React Native, Javascript, HTML, CSS**
+- 🌱 I’m currently learning **Java*
 
 - ⚡ Fun fact **I'M ALWAYS ON COFFEE**
 
