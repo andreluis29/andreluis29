@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm André.</h1>
 
-- 🌱 I’m currently learning **Java*
+- 🌱 I’m currently learning **Front-end*
 
 - ⚡ Fun fact **I'M ALWAYS ON COFFEE**
 
