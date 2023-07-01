@@ -1,3 +1,16 @@
-![andreluis29's GitHub stats]([https://github-readme-stats.vercel.app/api?username=andreluis29&show_icons=true&bg_color=00000000](https://camo.githubusercontent.com/98b67e307b87af6c0c2ec530980be8d2e3f094b6068703f7a2ddaf4b751a6333/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562)https://camo.githubusercontent.com/98b67e307b87af6c0c2ec530980be8d2e3f094b6068703f7a2ddaf4b751a6333/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612672616e6b5f69636f6e3d676974687562)
+### Hey 👋, I'm Andre
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis29&layout=donut-vertical)]
+<br />
+<br />
+
+Hi there, I'm **Andre Luis Wenningkamp**, a **Front End Developer**  from Brazil. 
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Andreluis29's github stats](https://github-readme-stats.vercel.app/api?username=andreluis29&show_icons=true&hide_border=true)
