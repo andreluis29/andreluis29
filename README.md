@@ -1,4 +1,4 @@
-### Hey 👋, I'm Andre
+### Hey :smile:, I'm Andre
 
 <br />
 <br />
