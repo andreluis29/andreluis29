@@ -1,4 +1,1 @@
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreluis29&repo=github-readme-stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andreluis29&repo=convoychat" />
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreluis29&layout=donut-vertical)]
